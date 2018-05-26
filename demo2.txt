@@ -1,0 +1,1 @@
+This is demo for the example of email notification
